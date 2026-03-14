@@ -124,13 +124,6 @@ Esta é uma implantação de site estático. A aplicação é construída como u
 
 **Plataformas recomendadas**: Vercel, Netlify, GitHub Pages, Replit
 
-### Deploy no Replit
-
-O projeto está pré-configurado para implantação no Replit:
-1. Faça push do código para o repositório
-2. Clique em "Publicar" no dashboard do Replit
-3. A aplicação estará disponível em `https://<nome-do-projeto>.replit.dev`
-
 ## Suporte de Navegadores
 
 - Chrome (versão mais recente)
